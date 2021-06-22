@@ -1,4 +1,2 @@
 # git-basic
-Buenas tardes
-gente bonita
-#AAAAAAAAAAAAAAAAAAAAA
+Repositorio de ejemplo para aprender control de versiones con Git y manejo de repositorios con Github
