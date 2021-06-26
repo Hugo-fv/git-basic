@@ -24,3 +24,8 @@ Los aprendizajes esperados  de estas actividades son:
 Línea de ejemplo para demostrar el funcionamiento de VS Code.
 
 Línea de ejemplo para demostrar lo de VS Code otra vez. 
+
+Ultimo cambio desde el VS Code y el plugin de GitHub. 
+
+
+
