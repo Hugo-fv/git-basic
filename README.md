@@ -21,3 +21,4 @@ Los aprendizajes esperados  de estas actividades son:
 ---
 ---
 
+Línea de ejemplo para demostrar el funcionamiento de VS Code.
