@@ -18,3 +18,6 @@ Los aprendizajes esperados  de estas actividades son:
 	* Obtener la última versión de forma remota.
 	* Uso de Github Desktop como una alternativa gráfica al control de repositorios.
 
+---
+---
+
